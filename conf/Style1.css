@@ -1,0 +1,216 @@
+body
+{
+	background-color: gray;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+	cursor:url(graf/cursor2.png)32 32, pointer;
+}
+h4
+{
+	color:green;
+	font-size:18px;
+	font-family:arial;
+}
+h7
+{
+	color:#ffffff;
+	font-size:19px;;
+	font-family:arial;
+}
+pre
+{
+font-size: 12px;
+font-family: "Courier New", Courier, monospace;
+margin: 1em 0;
+display: block;
+background-color: #EEE;
+overflow: auto;
+width: 90%;
+padding: 2px 5px 20px 5px;
+border-width: 1px;
+border-style: solid;
+border-color: #BBB #CCC #CCC #BBB;
+background: #EEE url("http://www.kurshtml.edu.pl/pliki/kod.gif") repeat-y left top;
+height: 770px;
+white-space: pre;
+line-height: normal;
+padding-left: 20px;
+}
+#kontener
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.prostokont
+{
+	width:960px;
+	margin:20px;
+}
+
+.kwadrat
+{
+	width:50%;
+	float:left;
+}
+
+#pola1
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background:url("graf/procesor.jpg");
+	float:left;
+	text-align:center;
+}
+#pola2
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background:url("graf/k-graf.jpg");
+	float:left;
+	text-align:center;
+}
+#pola3
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background:url("graf/pglo.png");
+	float:left;
+	text-align:center;
+}
+#pola4
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background:url("graf/zasilacz.jpg");
+	float:left;
+	text-align:center;
+}
+#pola5
+{
+	margin:10px;
+	width:480px;
+	height:142px;
+	background:url("graf/pc-zes.jpg");
+	float:left;
+	text-align:center;
+}
+#pola6
+{
+	margin:10px;
+	width:450px;
+	height:274px;
+	background-color:#3095d3;
+	padding:15px;
+	text-align:center;
+}
+.yt
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#d94348;
+	float:left;
+	text-decoration:none;
+	color:#ffffff;
+	
+}
+.yt:hover
+{
+	background-color:#c83237;
+}
+.fb
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#4668b3;
+	float:left;
+	text-decoration:none;
+	color:#ffffff;
+}
+.fb:hover
+{
+	background-color:#3557a2;
+}
+.gplus
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#d95333;
+	float:left;
+	text-decoration:none;
+	color:#ffffff;
+}
+.gplus:hover
+{
+	background-color:#b72126;
+}
+.tw
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#3095d3;
+	float:left;
+	text-decoration:none;
+	color:#ffffff;
+}
+.tw:hover
+{
+	background-color:#2084c2;
+}
+
+#tytuł
+{
+	float: left;
+	font-size:50px;
+	width:600px;
+}
+
+#zegar
+{
+	float:left;
+	font-size:50px;
+	text-align:right;
+	padding-left:100px;
+}
+#stopka
+{
+	float:left;
+	width:700px;
+	text-align:center;
+	
+}
+#data
+{
+	float: left;
+	text-align:right;
+	width:180px;	
+}
+#h3 
+{
+	
+}
+#h3:hover
+{
+	
+}
+a.wlink
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+a.wlink:hover
+{
+	color:#ffffff;
+	font-weight:999;
+}
